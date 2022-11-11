@@ -1,4 +1,4 @@
-# Balloon shotting game using react js
+# Ball shotting game using react js
 
 ## Demo
 https://react-shooting-game.onrender.com
