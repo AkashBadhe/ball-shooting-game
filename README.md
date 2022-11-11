@@ -10,13 +10,21 @@ Create an empty box, 5 circles each of unique colours. The colour generation met
   
 ### Steps to run this project:~
 - Step.1 Clone this repo
+```js
+ git clone https://github.com/AkashBadhe/ball-shooting-game.git
+```
 - Step.2 Now navigate inside the project directory
+```js
+ cd ball-shooting-game
+```
 - Step.3 Install the required packages to run this project using the following command 
 ```js
- yarn install
+ yarn or npm install 
 ```
 - Step.4 To run this project run the following command into your terminal 
 ```js
- yarn start
+ yarn start or npm run start
 ```
+## Screenshots:
 
+![Ball Game Demo](/screens/ball-game-demo.gif?raw=true "Ball Game Demo")

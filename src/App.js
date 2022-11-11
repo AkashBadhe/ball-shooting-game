@@ -4,7 +4,7 @@ import Game from './components/Game';
 
 function App() {
 
-  const TOTAL_ITEMS = 8;
+  const TOTAL_ITEMS = 5;
   // Total number circles.
 
   return (
