@@ -1,7 +1,7 @@
 # Balloon shotting game using react js
 
 ## Demo
-
+https://react-shooting-game.onrender.com
 ## Problem Statement:
 Create an empty box, 5 circles each of unique colours. The colour generation method should randomly pick and assign one of the five colours to the circles. A text box that will take numeric input and a button named “shoot”.
  
