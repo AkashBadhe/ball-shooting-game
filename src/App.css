@@ -1,0 +1,62 @@
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-box{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.controls-box{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 260px;
+}
+.empty-box{
+  width: 300px;
+  padding: 50px 10px;
+  border: 1px solid black;
+}
+
+.circle{
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.input-box{
+  width: 100%;
+  height: 60px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn{
+  width: 104%;
+  height: 60px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.btn:hover{
+  background: turquoise;
+}
+
+.error {
+  color: red;
+}
